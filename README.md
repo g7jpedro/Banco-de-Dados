@@ -1,2 +1,2 @@
 # Banco-de-Dados
- Meus testes e práticas em banco de dados , Mysql, Sqlite, etc ..
+ Minhas práticas e projetos em banco de dados , Mysql, Sqlite, etc ..
